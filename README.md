@@ -1,5 +1,5 @@
 # snippetcorpy
-This lightweight extension allows you to copy code snippets on supported sites, with just a click, and more sites are been added.
+This lightweight extension allows you to copy code snippets on supported sites, with just a click, and more sites are beign added.
 
 Chrome Extension Link
 https://chrome.google.com/webstore/detail/snippet-corpy/pioanloldonockhblgpmcafggncjijga
